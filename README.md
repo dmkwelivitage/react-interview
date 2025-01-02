@@ -8,7 +8,7 @@ This project consists of two main parts: a **backend API** and a **frontend web 
 
 1. Clone the repository:
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/dmkwelivitage/react-interview.git
     ```
 
 2. Navigate to the `backend` directory:
