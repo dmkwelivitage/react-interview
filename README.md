@@ -28,7 +28,7 @@ This project consists of two main parts: a **backend API** and a **frontend web 
 
 5. Start the backend server:
     ```bash
-    npm start
+    node .\src\server.js
     ```
 
    The backend will now be running at `http://localhost:5000` by default.
